@@ -1,0 +1,30 @@
+body{
+    margin-top: 5%;
+    font:80px Arial,Helvetica,sans-serif;
+    padding: 3px;
+}
+table{
+    background-color: black;
+    border-radius: 15px;
+    padding: 3px;
+}
+.boton1{
+    font-size: 50px;
+    margin: center;
+    margin-left: 10px;
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: 5px solid #909393;
+    border: 8px;
+}
+input{
+    margin-top: 5%;
+    width: 400px;
+    height: 80px;
+    border: 5px solid #909393;
+    border-radius: 15px;
+    font-size: 50px;
+}
+button{padding: 10px;}
